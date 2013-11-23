@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/RemoteDroidServer/bin/com/illposed/osc
+END
+OSCPortOut.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/RemoteDroidServer/bin/com/illposed/osc/OSCPortOut.class
+END
+OSCPort.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/RemoteDroidServer/bin/com/illposed/osc/OSCPort.class
+END
+OSCMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/RemoteDroidServer/bin/com/illposed/osc/OSCMessage.class
+END
+OSCListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/RemoteDroidServer/bin/com/illposed/osc/OSCListener.class
+END
+OSCPacket.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/RemoteDroidServer/bin/com/illposed/osc/OSCPacket.class
+END
+OSCBundle.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/RemoteDroidServer/bin/com/illposed/osc/OSCBundle.class
+END
+OSCPortIn.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/RemoteDroidServer/bin/com/illposed/osc/OSCPortIn.class
+END

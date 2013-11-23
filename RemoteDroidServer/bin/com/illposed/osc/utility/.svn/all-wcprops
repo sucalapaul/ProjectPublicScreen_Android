@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/RemoteDroidServer/bin/com/illposed/osc/utility
+END
+OSCPacketDispatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/RemoteDroidServer/bin/com/illposed/osc/utility/OSCPacketDispatcher.class
+END
+OSCByteArrayToJavaConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/RemoteDroidServer/bin/com/illposed/osc/utility/OSCByteArrayToJavaConverter.class
+END
+OSCJavaToByteArrayConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/RemoteDroidServer/bin/com/illposed/osc/utility/OSCJavaToByteArrayConverter.class
+END
